@@ -1,9 +1,9 @@
 
   ## Ola eu sou o Lucas Fagundes, Estudante do curso Sistema de Informação!
 <div align="center">
-  <a href="https://github.com/74079">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=74079&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=74079&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/LukaHenriique">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukaHenriique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaHenriique&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
